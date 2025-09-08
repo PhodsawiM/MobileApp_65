@@ -1,6 +1,6 @@
 # MobileApp_65
 
-cd ./hello_app
+cd ./MobileApp_65/hello_app
 
 flutter pub get
 
