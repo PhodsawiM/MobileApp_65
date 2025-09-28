@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@clickhouse/client": "^0.2.7",
+    "@faker-js/faker": "^7.6.0",
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^4.21.2",
+    "node-cron": "^4.2.1",
+    "openai": "^5.19.1",
+    "pg": "^8.16.3",
+    "socket.io": "^4.8.1"
+  }
+}

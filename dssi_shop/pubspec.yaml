@@ -31,11 +31,12 @@ dependencies:
   flutter:
     sdk: flutter
   faker: ^2.2.0
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
   pocketbase: ^0.23.0+1
   web_socket_channel: ^3.0.3
+  flutter_dotenv: ^6.0.0
+  http: ^1.1.0   # <-- เพิ่มตรงนี้ สำหรับ HTTP POST ไป backend
+
 
 dev_dependencies:
   flutter_test:
